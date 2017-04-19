@@ -48,8 +48,9 @@ body {
 }
 
 .jumbotron h1 {
-  font-size: 72px;
+  font-size: 108px;
   color: #990000;
+  font-family: 'EB Garamond', serif !important;
 }
 /* .jumbotron .btn { */
 /*   padding: 14px 24px; */
